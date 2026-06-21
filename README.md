@@ -1,2 +1,14 @@
 # 2026worldcup-wwwbest-guide
-HTML page archive and documentation
+
+GitHub Pages 发布仓库
+
+本项目用于存档页面文件，便于长期保留和检查。
+
+## 仓库内容
+
+- 页面文件保存在根目录
+- 后续任务会继续追加新的 HTML 文件
+
+## 更新方式
+
+自动发布任务会继续维护本仓库，文件变化以提交记录为准。
